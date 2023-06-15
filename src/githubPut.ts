@@ -1,4 +1,6 @@
-const accessToken = "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";
+import { TOKEN } from "../token";
+
+const accessToken = TOKEN;
 const owner = "chillyweather";
 const repo = "tidy-test";
 const filePath = "README.md";
