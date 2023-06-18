@@ -2,6 +2,7 @@
   "dependencies": {
     "@create-figma-plugin/ui": "^2.5.0",
     "@create-figma-plugin/utilities": "^2.5.0",
+    "dotenv": "^16.1.4",
     "preact": ">=10",
     "prismjs": "^1.28.0",
     "react-simple-code-editor": "^0.11.2",

@@ -1,6 +1,6 @@
-import { TOKEN } from "../token";
 
-const accessToken = TOKEN;
+
+const accessToken = "GITHUB_ACCESS_TOKEN";
 const owner = "chillyweather";
 const repo = "tidy-test";
 const filePath = "README.md";
